@@ -1,0 +1,3 @@
+com\sonatype\selenium\AutoTest.class
+com\sonatype\selenium\Constants.class
+com\sonatype\selenium\SeleniumTests.class

@@ -1,0 +1,6 @@
+com\sonatype\service\NumToWordsApplication.class
+com\sonatype\service\WordService.class
+com\sonatype\service\RegressionTranslation.class
+com\sonatype\service\Constants.class
+com\sonatype\service\NumToWordSysSetting.class
+com\sonatype\service\IWordService.class
