@@ -12,6 +12,7 @@
   <sonar.projectKey>criticalisland_sonatype-numtoword</sonar.projectKey>
   <sonar.organization>criticalisland</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>bb2da0b667716d06a7d85e6b3814e33682009c71</sonar.login>
 </properties>
 	<!-- Add Spring Web and MVC dependencies -->
 	<dependencies>
