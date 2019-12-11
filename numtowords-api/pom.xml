@@ -8,7 +8,11 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>numtowords-api</artifactId>
-
+<properties>
+  <sonar.projectKey>criticalisland_sonatype-numtoword</sonar.projectKey>
+  <sonar.organization>criticalisland</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.sonatype</groupId>
